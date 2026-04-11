@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.31)  11 APR 2026 19:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.31)  11 APR 2026 19:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -209,8 +209,7 @@ Package: setspace 2022/12/04 v6.7b set line spacing
 tex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count300
-)
-No file CVEnglish.aux.
+) (CVEnglish.aux)
 \openout1 = `CVEnglish.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
@@ -231,6 +230,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -266,6 +266,7 @@ LaTeX Font Info:    ... okay on input line 15.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 15.
+(CVEnglish.out) (CVEnglish.out)
 \@outlinefile=\write3
 \openout3 = `CVEnglish.out'.
 
@@ -292,21 +293,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--113
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-
-
-Package rerunfilecheck Warning: File `CVEnglish.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `CVEnglish.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `CVEnglish.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8708 strings out of 467871
- 136417 string characters out of 5418376
- 573160 words of memory out of 5000000
- 37542 multiletter control sequences out of 15000+600000
+ 8716 strings out of 467871
+ 136643 string characters out of 5418376
+ 573219 words of memory out of 5000000
+ 37544 multiletter control sequences out of 15000+600000
  631128 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,79p,291b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -318,7 +312,7 @@ amsfonts/cm/cmbx10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type
 onts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/marti/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/marti/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on CVEnglish.pdf (1 page, 93226 bytes).
+Output written on CVEnglish.pdf (1 page, 93060 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
