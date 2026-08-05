@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.31)  16 APR 2026 15:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.31)  5 AUG 2026 10:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -209,8 +209,7 @@ Package: setspace 2022/12/04 v6.7b set line spacing
 tex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count300
-)
-No file CVEnglish.aux.
+) (CVEnglish.aux)
 \openout1 = `CVEnglish.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
@@ -231,6 +230,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -271,17 +271,17 @@ Package hyperref Info: Link coloring OFF on input line 15.
 \openout3 = `CVEnglish.out'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
@@ -297,13 +297,13 @@ Package rerunfilecheck Info: File `CVEnglish.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8713 strings out of 467871
- 136559 string characters out of 5418376
- 570224 words of memory out of 5000000
+ 8715 strings out of 467871
+ 136625 string characters out of 5418376
+ 569219 words of memory out of 5000000
  37543 multiletter control sequences out of 15000+600000
  631128 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,291b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,267b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk> <C:\Users\marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcbx1200.pk><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -312,9 +312,9 @@ amsfonts/cm/cmbx10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type
 onts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/marti/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/marti/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on CVEnglish.pdf (1 page, 90974 bytes).
+Output written on CVEnglish.pdf (1 page, 89629 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
+ 48 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
